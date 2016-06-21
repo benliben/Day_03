@@ -8,12 +8,22 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/4.增删改查2" />
+            <option value="$PROJECT_DIR$/5.数据库中的事物" />
+            <option value="$PROJECT_DIR$/6.listview" />
+            <option value="$PROJECT_DIR$/7.老虎机" />
+            <option value="$PROJECT_DIR$/8.新闻" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/4.增删改查2" />
+            <option value="$PROJECT_DIR$/5.数据库中的事物" />
+            <option value="$PROJECT_DIR$/6.listview" />
+            <option value="$PROJECT_DIR$/7.老虎机" />
+            <option value="$PROJECT_DIR$/8.新闻" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>

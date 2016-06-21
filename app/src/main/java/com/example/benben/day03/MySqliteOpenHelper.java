@@ -21,8 +21,6 @@ public class MySqliteOpenHelper extends SQLiteOpenHelper {
                 "name varchar(20)," +
                 "phone varchar(11))");
         Log.i("lyx", "表被创建了: ");
-
-
     }
 
     @Override

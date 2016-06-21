@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Day03.iml" filepath="$PROJECT_DIR$/Day03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.增删改查2/4.增删改查2.iml" filepath="$PROJECT_DIR$/4.增删改查2/4.增删改查2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.数据库中的事物/5.数据库中的事物.iml" filepath="$PROJECT_DIR$/5.数据库中的事物/5.数据库中的事物.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.listview/6.listview.iml" filepath="$PROJECT_DIR$/6.listview/6.listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.老虎机/7.老虎机.iml" filepath="$PROJECT_DIR$/7.老虎机/7.老虎机.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.新闻/8.新闻.iml" filepath="$PROJECT_DIR$/8.新闻/8.新闻.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_03.iml" filepath="$PROJECT_DIR$/Day_03.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
