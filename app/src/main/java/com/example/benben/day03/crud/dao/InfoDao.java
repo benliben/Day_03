@@ -62,7 +62,7 @@ public class InfoDao {
          * sql sql语句
          * selectionArgs   查询条件占位符的值 返回一个cursor对象
          */
-        Cursor cursor = db3.rawQuery("select _id, name,phone from info where name=?;", (String[]) new String[]{name});
+        Cursor cursor = db3.rawQuery("select _id, name,phone from info where name=?;",  new String[]{name});
         /*解析cursor里面的内容*/
         if (cursor != null && cursor.getCount() > 0) {//判断cursor中是否存在数据
             /*循环遍历结果，获取每一行的内容*/
